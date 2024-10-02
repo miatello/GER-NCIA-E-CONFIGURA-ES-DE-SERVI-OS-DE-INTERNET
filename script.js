@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         titulo.style.color = 'blue';
     });
 
-
+""
     titulo.addEventListener('mouseout', () => {
         titulo.style.color = '#333';
     });
